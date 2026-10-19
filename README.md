@@ -164,6 +164,7 @@ The companion open-source dataset, **Xing4.0-29B-Intent-oss**, brings **61 publi
 
 - [Hugging Face dataset page](https://huggingface.co/datasets/XingChen-AGI/Xing4.0-29B-Intent-oss): dataset overview.
 - [Dataset documentation](data/README.md): detailed distributions, schemas, field definitions, and example assembly instructions.
+- [CMPA-SLU benchmark for Chinese spoken language understanding](https://github.com/XingChen-AGI/CMPA-SLU): developed by the Xingchen AGI Lab for intelligent interactions on mobile devices. The accompanying paper, “CMPA-SLU: A Benchmark for Chinese Mobile Personal Assistant Spoken Language Understanding,” has been accepted to EMNLP 2026.
 
 ## License and Citation
 

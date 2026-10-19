@@ -164,6 +164,7 @@ SDK 自动完成提示词组装和结果解析。多轮对话、异步调用、S
 
 - [Hugging Face 数据集主页](https://huggingface.co/datasets/XingChen-AGI/Xing4.0-29B-Intent-oss)：查看数据集介绍。
 - [数据说明](data/README_zh.md)：查看详细分布、Schema、字段定义和样例构建方式。
+- [CMPA-SLU 中文口语理解基准](https://github.com/XingChen-AGI/CMPA-SLU)：由星辰通用人工智能实验室面向手机端智能交互场景构建，相关论文《CMPA-SLU: A Benchmark for Chinese Mobile Personal Assistant Spoken Language Understanding》已被 EMNLP 2026 录用。
 
 ## 许可与引用
 
