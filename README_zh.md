@@ -1,5 +1,7 @@
 <h1 align="center">Xing4.0-29B-Intent</h1>
 
+<p align="center"><strong>Xing4.0-29B-Intent</strong> — 基于 29B MoE（每 token 仅激活 4B 参数）的 Schema 引导意图识别与结构化信息抽取模型。</p>
+
 <p align="center">
   🤗 <a href="https://huggingface.co/XingChen-AGI/Xing4.0-29B-Intent">Hugging Face</a> •
   🤖 <a href="https://www.modelscope.cn/models/XingChen-AGI/Xing4.0-29B-Intent">ModelScope</a> •
@@ -164,7 +166,6 @@ SDK 自动完成提示词组装和结果解析。多轮对话、异步调用、S
 
 - [Hugging Face 数据集主页](https://huggingface.co/datasets/XingChen-AGI/Xing4.0-29B-Intent-oss)：查看数据集介绍。
 - [数据说明](data/README_zh.md)：查看详细分布、Schema、字段定义和样例构建方式。
-- [CMPA-SLU 中文口语理解基准](https://github.com/XingChen-AGI/CMPA-SLU)：由星辰通用人工智能实验室面向手机端智能交互场景构建，相关论文《CMPA-SLU: A Benchmark for Chinese Mobile Personal Assistant Spoken Language Understanding》已被 EMNLP 2026 录用。
 
 ## 许可与引用
 
